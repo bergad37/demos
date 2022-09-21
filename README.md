@@ -1,2 +1,2 @@
 # demos
-My demo mobile applications
+My flutter demo mobile applications
